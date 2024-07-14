@@ -6,7 +6,7 @@ on:
 
 env:
   ECR_REPOSITORY: demo-registry
-  EKS_CLUSTER_NAME: Kubernetes-demo 
+  EKS_CLUSTER_NAME: eks-cluster
   AWS_REGION: us-east-1
 
 jobs:
